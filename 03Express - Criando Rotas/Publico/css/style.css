@@ -1,0 +1,14 @@
+.nova{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+}
+
+.imge
+{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    top: 50%;
+    width: 60%;
+}
